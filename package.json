@@ -1,0 +1,22 @@
+{
+  "name": "idea_box_angular",
+  "version": "1.0.0",
+  "description": "simple idea app built using angular.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jlawlzz/idea_box_angular.git"
+  },
+  "keywords": [
+    "idea"
+  ],
+  "author": "jlawlzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jlawlzz/idea_box_angular/issues"
+  },
+  "homepage": "https://github.com/Jlawlzz/idea_box_angular#readme"
+}
